@@ -1,4 +1,4 @@
-# 📊 Online Learning Analytics Dashboard (Power BI)
+# 📊 Online Learning Analysis Dashboard (Power BI)
 
 ## 📌 Project Overview
 
